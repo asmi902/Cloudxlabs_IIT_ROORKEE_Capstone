@@ -88,13 +88,6 @@ Efficient Channel Attention (ECA) highlights the most informative channels in fe
 - Explainable AI with attention heatmaps
 - Support for low-resource environments
 
----
-
-## 👩‍💻 Team
-- **Samridhi Raj Sinha**
-- **Asmi Parikh**
-- **Saakshi Jain**
-- **Mentors**: Dr. Shubha Puthran & Dr. Supriya Agarwal
 
 ---
 
